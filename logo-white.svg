@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="stardelt logo, white">
+  <title>stardelt</title>
+  <desc>A four-pointed star inside a delta triangle — the stardelt mark, solid white.</desc>
+
+  <!-- Delta (triangle) outline -->
+  <polygon points="100,28 178,170 22,170"
+           fill="none"
+           stroke="#FFFFFF"
+           stroke-width="11"
+           stroke-linejoin="round"
+           stroke-linecap="round"/>
+
+  <!-- Four-pointed sparkle star centered inside the triangle -->
+  <polygon points="100,92 110,118 138,128 110,138 100,162 90,138 62,128 90,118"
+           fill="#FFFFFF"/>
+</svg>
